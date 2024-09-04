@@ -17,7 +17,6 @@ The development process included 5 hours of guided classes, supplemented by addi
 
 ## Features:
 - Designed to create, edit, and delete notes: Users can manage their notes with ease.
-- Responsive design: Optimized for both desktop and mobile devices.
 - Styled Components: All components are styled dynamically, allowing for seamless theme management and reusability.
 - React Icons: A variety of icons are used to enhance the user interface.
 ## Tech Stack:
